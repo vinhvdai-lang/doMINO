@@ -1,0 +1,6 @@
+{
+  "name": "Quản lý Sinh viên Cao đẳng Việt Đức",
+  "description": "Hệ thống quản lý thông tin sinh viên, điểm số, học phí, điểm danh và rèn luyện Trường Cao đẳng Y tế và Trang thiết bị Việt Đức.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
